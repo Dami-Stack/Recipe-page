@@ -1,0 +1,50 @@
+
+     body{
+        background: hsl(30, 54%, 90%);
+     }
+    #omelette{
+        font-family: "Yound Serif", sans-serif;
+        font-weight: 1000px;
+    }
+.container h1 h2 h3 h4 h5 {
+    font-family: "Young serif", serif;
+    font-weight: 700;
+
+}
+
+    .container{
+        background: white;
+        width: 600px;
+        padding: 40px;
+        border-radius: 30px;
+        margin:  50% auto;
+        
+        font-family: "Outfit", sans-serif;
+                  
+    }
+    .thin-line{
+        border: 0.1px solid rgb(190, 185, 185);
+    }
+
+    .container img{
+        width: 100%;
+        border-radius: 10px;
+    }
+
+    .box{
+        border-radius: 10px;
+        padding: 20px;
+        margin: 20px;
+        font-family: "Young Serif";
+        background: rgb(243, 229, 215, 0.3)
+        
+    }
+
+    .box ul li {
+        margin-bottom: 6px;
+    }
+    #nut{
+        
+        word-spacing: 200px;
+    }
+    
